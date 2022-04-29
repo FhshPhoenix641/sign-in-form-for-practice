@@ -5,5 +5,3 @@ $(document).ready(function () {
     e.preventDefault();
   });
 });
-
-console.log("for 123")
